@@ -1,5 +1,4 @@
 def fact(n):
-    result = 1
-    for value in range(1, n + 1):
-        result *= value
-    return result
+    if n < 2:
+        return 1
+    return n * fact(n - 1)
