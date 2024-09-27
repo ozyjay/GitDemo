@@ -1,2 +1,4 @@
 # GitDemo
- The Git project used during the Git Crash Course!
+
+## Purpose
+The Git project used during the Git Crash Course!
